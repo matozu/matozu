@@ -20,7 +20,7 @@
         </p>
         <p>
           The frontend is made in vue.js, the backend is an express application.
-          Socket.io is used to send and receive messages.
+          Socket.io is used to send and receive messages. The data is stored in mongodb database. 
         </p>
         <p>
           <b>The site is deployed as a free web service on render.com, so after 15
