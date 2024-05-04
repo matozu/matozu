@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mato</h1>
 <h3 align="center">A web developer from Croatia</h3>
-
+</br>
+</br>
 <p> I'm currently learning <b>REACT</b>. I have experience with <b>VUE.JS</b>, <b>NODE</b>, <b>EXPRESS</b>, <b>C#</b>, and <b>PL/SQL</b>. </p>
 
 <h3 align="left">Connect with me:</h3>
