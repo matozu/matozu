@@ -2,7 +2,6 @@
 
 I'm Mato, developer from Croatia. I'm currently learning react. I have experience¸with vue.js, node and express.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matozu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **matozu/matozu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
