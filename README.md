@@ -23,9 +23,9 @@
           Socket.io is used to send and receive messages.
         </p>
         <p>
-          The site is deployed as a free web service on render.com, so after 15
+          <b>The site is deployed as a free web service on render.com, so after 15
           minutes of inactivity it takes up to one minute for spinning up a
-          service.
+          service.</b>
         </p>
         <p>
           For testing purposes, you can log in with "user" for both, username
