@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Mato
+#### I'm developer from Croatia.
+I'm currently learning react. I have experience¸with vue.js, node and express.
 
-I'm Mato, developer from Croatia. I'm currently learning react. I have experience¸with vue.js, node and express.
+Skills: VUE JS / REACT / JS / HTML / CSS / EXPRESS / NODE /
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
 
 <!--
