@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mato</h1>
 <h3 align="center">A web developer from Croatia</h3>
 
-<p> I'm currently learning <b>react</b>. I have experience with <b>vue.js</b>, <b>node</b>, <b>express</b>, <b>C#</b>, <b>PL/SQL</b> </p>
+<p> I'm currently learning <b>react</b>. I have experience with <b>vue.js</b>, <b>node</b>, <b>express</b>, <b>C#</b>, and <b>PL/SQL</b>. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
