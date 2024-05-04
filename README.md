@@ -3,6 +3,11 @@
 
 <p> I'm currently learning react. I have experience with vue.js, node and express. </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codewars.com/users/matozu" target="blank"><img align="center" src="https://www.codewars.com/users/matozu/badges/large" alt="matozu" height="30" width="300" /></a>
+</p>
+
 
 
 
